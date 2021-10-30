@@ -1,7 +1,7 @@
 # Linear activation. dataIn = dataOut
 # 
 
-def linearApply(dataIn):
+def pureLin(dataIn):
     return dataIn
 
 
